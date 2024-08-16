@@ -9,7 +9,7 @@ namespace cap02_ex03
     class Program
     {
         static void Main(string[] args)
-        {
+        {   //float é uma variável de números decimais.
             float HT, VH, PD, SB, TD, SL;
 
             Console.Write("Horas trabalhadas......:");
@@ -18,7 +18,7 @@ namespace cap02_ex03
             VH = float.Parse(Console.ReadLine());
             Console.Write("Valor do percentual de desconto.:");
             PD = float.Parse(Console.ReadLine());
-
+            //valor das horas trabalhadas vezes o valor da hora.
             SB = HT * VH;
             TD = (PD /100) * SB;
             SL = SB - TD;
