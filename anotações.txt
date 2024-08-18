@@ -1,0 +1,26 @@
+int = variável do tipo número inteiro.
+Float = variável do tipo número decimal.
+String = variável do tipo nome.
+
+Console.Write = escreve em uma nova linha.
+Console.WriteLine = escreve na mesma linha.
+Console.ReadLine = leia até dar enter.
+int.Parse = converte a int para a string.
+Float.Parse = converte o float para a string.
+
+&&  e
+||  ou
+!=  diferente
+!  não
+=  atribuição
+==  comparação
+>  maior
+< menor
+>= maior ou igual
+<= menor ou igual
+^ se o primeiro for real o segundo é falso
+
+
+
+
+
