@@ -20,7 +20,15 @@ Float.Parse = converte o float para a string.
 <= menor ou igual
 ^ se o primeiro for real o segundo é falso
 
+while (contador < 5): Enquanto o valor da variável contador for menor que 5, o laço vai continuar executando.
 
+do { ... }: O bloco de código dentro do do é executado antes de verificar a condição.
+while (contador < 5);: Após o bloco de código ser executado, a condição é verificada. Se contador for menor que 5, o laço continua. Caso contrário, ele termina.
 
+Pessoa pessoa1 = new Pessoa();: Aqui estamos usando new para criar uma nova instância da classe Pessoa. Isso aloca memória e inicializa um novo objeto chamado pessoa1 que pode ser manipulado.
 
+try: Tenta executar o código que pode gerar uma exceção.
+catch: Captura e trata a exceção se ela ocorrer.
 
+int[] numeros: Declara um array de inteiros chamado numeros.
+new int[5]: Inicializa o array com 5 posições (índices de 0 a 4).
